@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Busapp</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_one_here">crea una aquí</string>
+    <string name="sinigWhit">Ingresa con:</string>
+
+
+
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_pass">Confirmar contraseña</string>
+    <string name="text_button_join">Únete</string>
+    <string name="toolbar_title_create_account">Crear cuenta</string>
+    <string name="user_name_card">Jose Cervantes</string>
+    <string name="first_word_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="like_number_card">me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="messageToastEmailEmpty">Rellene el campo email</string>
+    <string name="messageToastInvalidPass">Contraseña Invalida</string>
+
+</resources>

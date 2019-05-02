@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761964452682",
+    "firebase_url": "https://busapp-d0b91.firebaseio.com",
+    "project_id": "busapp-d0b91",
+    "storage_bucket": "busapp-d0b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761964452682:android:63de0b0736658eb8",
+        "android_client_info": {
+          "package_name": "solidsoft.com.busapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761964452682-56ruei7ordpampjhsesahgduscen5grt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "solidsoft.com.busapp",
+            "certificate_hash": "3b2d7fc8d72ead7b99c28c6193e85c6420a26a7b"
+          }
+        },
+        {
+          "client_id": "761964452682-7q87glg6ff1icpb6mu86d42otufsdr4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQomLahTQmU6Zs86rlh_s9h75apDSWmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761964452682-7q87glg6ff1icpb6mu86d42otufsdr4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
